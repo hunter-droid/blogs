@@ -46,3 +46,11 @@
 
 ## 杂谈
 
+[排除万难，我终于入了程序员的坑](https://github.com/hunter-droid/Blogs/blob/master/docs/杂谈/排除万难，我终于入了程序员的坑.md)
+
+[@程序员，再不养生就晚了](https://github.com/hunter-droid/Blogs/blob/master/docs/杂谈/%40程序员，再不养生就晚了.md)
+
+[程序员与医生](https://github.com/hunter-droid/Blogs/blob/master/docs/杂谈/程序员改Bug与医生治病.md)
+
+[记录一次生产发布事件——(简单的非空验证也能引发大问题)](https://github.com/hunter-droid/Blogs/blob/master/docs/杂谈/记录一次生产发布事件.md)
+
