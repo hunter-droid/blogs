@@ -1,15 +1,4 @@
----
-title: .NET实现持续集成与自动化部署2-NuGet
-copyright: true
-date: 2018-11-13 11:09:33
-tags: 
-- 持续集成 
-- Jenkins 
-- 自动化发布 
-- NuGet
-categories: 持续集成&Jenkins&自动化发布
-keywords: 持续集成,Jenkins,自动化发布,NuGet,.NET
----
+## .NET实现持续集成与自动化部署2-NuGet
 
 ### 前言
 &nbsp;&nbsp;&nbsp;&nbsp;Nuget是一个.NET平台下的开源的项目，它是Visual Studio的扩展。在使用Visual Studio开发基于.NET Framework的应用时，Nuget能把在项目中添加、移除和更新引用的工作变得更加快捷方便。这是维基百科中的定义，实际上Nuget就是一个包管理器，类似于Java的Maven，可以帮助我们更方便的管理dll。<!--more-->

@@ -1,14 +1,4 @@
----
-title: .NET实现持续集成与自动化部署1-Jenkins
-copyright: true
-date: 2018-11-13 11:06:33
-tags: 
-- 持续集成 
-- Jenkins 
-- 自动化发布 
-categories: 持续集成&Jenkins&自动化发布
-keywords: .NET,持续集成,Jenkins,自动化发布,自动化部署
----
+## .NET实现持续集成与自动化部署1-Jenkins
 
 ### 前言
 
