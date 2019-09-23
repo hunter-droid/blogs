@@ -1,6 +1,6 @@
-## Spring Cloud
+## Spring-Cloud
 
-[Spring Cloud(一) Eureka组合Feign](https://github.com/hunter-droid/blogs/blob/master/docs/Spring-Cloud/Spring%20Cloud(%E4%B8%80)%20Eureka%E7%BB%84%E5%90%88Feign.md)
+[Spring Cloud(一) Eureka组合Feign](https://github.com/hunter-droid/blogs/blob/master/docs/Spring-Cloud/Spring Cloud(一) Eureka组合Feign.md)
 
 ## Redis
 
