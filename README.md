@@ -2,6 +2,8 @@
 
 [Spring Boot(一) Hello World](https://github.com/hunter-droid/blogs/blob/master/docs/Spring-Boot/Spring%20Boot(%E4%B8%80)%20Hello%20World.md)
 
+[Spring Boot(二) 读取配置文件](https://github.com/hunter-droid/blogs/blob/master/docs/Spring-Boot/Spring%20Boot(%E4%BA%8C)%20%E8%AF%BB%E5%8F%96%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6.md)
+
 ## Spring-Cloud
 
 [Spring Cloud(一) Eureka组合Feign](https://github.com/hunter-droid/blogs/blob/master/docs/Spring-Cloud/Spring%20Cloud(%E4%B8%80)%20Eureka%E7%BB%84%E5%90%88Feign.md)
