@@ -4,7 +4,7 @@
 
 [Spring Boot(二) 读取配置文件](https://github.com/hunter-droid/blogs/blob/master/docs/Spring-Boot/Spring%20Boot(%E4%BA%8C)%20%E8%AF%BB%E5%8F%96%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6.md)
 
-[Spring Boot(三) 使用Lombok]([https://github.com/hunter-droid/blogs/blob/master/docs/Spring-Boot/Spring%20Boot(%E4%B8%89)%20%E4%BD%BF%E7%94%A8Lombok.md](https://github.com/hunter-droid/blogs/blob/master/docs/Spring-Boot/Spring Boot(三) 使用Lombok.md))
+[Spring Boot(三) 使用Lombok](https://github.com/hunter-droid/blogs/blob/master/docs/Spring-Boot/Spring%20Boot(%E4%B8%89)%20%E4%BD%BF%E7%94%A8Lombok.md)
 
 ## Spring-Cloud
 
